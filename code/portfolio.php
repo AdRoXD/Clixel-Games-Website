@@ -10,7 +10,7 @@
 <body>
     <?php include "header.php"?>
 
-    
+    <p>hey jack whats cookalooking</p>
     <main class="container">
 
     </main>
